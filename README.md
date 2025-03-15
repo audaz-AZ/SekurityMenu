@@ -8,4 +8,4 @@
 
 <h3 align="left">Preview :</h3>
 
-![image]([https://user-images.githubusercontent.com/107647503/202873023-ce8104df-bee8-4a73-a426-aac96daa37b1.png](https://media.discordapp.net/attachments/1167817435395665991/1350523387914489997/image.png?ex=67d70c6b&is=67d5baeb&hm=b83dd1907893161813c999e9da81966f47f78462c1f8fdffd9088648922bd9d2&=&format=webp&quality=lossless))
+<img src="https://media.discordapp.net/attachments/1167817435395665991/1350523387914489997/image.png?ex=67d70c6b&is=67d5baeb&hm=b83dd1907893161813c999e9da81966f47f78462c1f8fdffd9088648922bd9d2&=&format=webp&quality=lossless">
