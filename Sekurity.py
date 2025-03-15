@@ -38,7 +38,7 @@ def logo():
 ░  ░  ░     ░   ░ ░░ ░  ░░░ ░ ░   ░░   ░  ▒ ░  ░       ▒ ▒ ░░  
       ░     ░  ░░  ░      ░        ░      ░            ░ ░     
                                                        ░ ░     \033[0m
-                   By : \033[31maudaz#0001 - https://github.com/audaz-AZ\033[0m''')
+  By : \033[31maudaz#0001 - https://github.com/audaz-AZ\033[0m''')
 
 
 def cls():
